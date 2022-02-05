@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Desktop_Calculator.Desktop_Calculator-task-build-classes-java.main" target="11" />
+      <module name="Desktop_Calculator.Desktop_Calculator-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Desktop_Calculator.Desktop_Calculator-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Desktop_Calculator.Desktop_Calculator-task-build-reports-tests.main" target="11" />
+      <module name="Desktop_Calculator.Desktop_Calculator-task-build-test-results.main" target="11" />
+      <module name="Desktop_Calculator.Desktop_Calculator-task-build-tmp.main" target="11" />
+      <module name="Desktop_Calculator.Desktop_Calculator-task.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Anonymous_classes_properties-Create_instance.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Anonymous_classes_properties-Iterations.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Anonymous_classes_properties-Managing_a_process.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Anonymous_classes_properties-My_possibilities.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Anonymous_classes_properties-Theory.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Custom_threads-Message_notifier_as_a_thread.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Custom_threads-Possible_order_of_the_output_strings.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Custom_threads-Statements.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Custom_threads-Statements_about_starting_threads.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Custom_threads-String_processor.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Custom_threads-Theory.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Custom_threads-Writing_a_thread_for_printing_numbers.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Floating-point_types-Area_of_a_circle.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Math_library-Pow.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Math_library-Theory.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Queue_and_Stack-Theory.main" target="11" />
+      <module name="Desktop_Calculator.Topics-Queue_and_Stack-Working_with_queue.main" target="11" />
+      <module name="Desktop_Calculator.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
